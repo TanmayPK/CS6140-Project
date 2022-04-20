@@ -1,2 +1,2 @@
-train-balanced-sarcasm.csv
+*.csv
 .idea/
