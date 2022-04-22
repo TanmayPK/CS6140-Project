@@ -1,2 +1,4 @@
 train-balanced-sarcasm.csv
 .idea/
+glovevectors.bin
+glovevectors.bin.vectors.npy
