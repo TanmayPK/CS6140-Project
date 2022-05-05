@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+*.csv
+.idea/
+=======
 train-balanced-sarcasm.csv
 .idea/
 glovevectors.bin
 glovevectors.bin.vectors.npy
+>>>>>>> origin/main
