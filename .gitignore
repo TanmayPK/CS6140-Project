@@ -6,4 +6,7 @@ train-balanced-sarcasm.csv
 .idea/
 glovevectors.bin
 glovevectors.bin.vectors.npy
+lstmmodel.pt
+model.pt
+lstmmodel2.pt
 >>>>>>> origin/main
